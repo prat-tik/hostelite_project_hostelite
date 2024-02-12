@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>C:/Users/Acer/Downloads/hostelite.jpg</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
